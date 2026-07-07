@@ -1,0 +1,42 @@
+{
+  "identifier": "boothbook",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500001",
+      "localizations": [],
+      "name": "Boothbook - Market Stalls Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "2.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "boothbook_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Profit-per-event tracking against sales entered",
+              "displayName": "Boothbook - Market Stalls Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "boothbook_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Boothbook - Market Stalls Pro Monthly",
+          "subscriptionGroupID": "21500001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
