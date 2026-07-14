@@ -1,7 +1,7 @@
 import SwiftUI
 
 @main
-struct Boothbook-MarketStallsApp: App {
+struct BoothbookMarketStallsApp: App {
     @StateObject private var store = Store()
     @StateObject private var purchases = PurchaseManager()
 
